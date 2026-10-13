@@ -1,4 +1,4 @@
-# Hey, I'm Aditya Yash Raj 👋
+# Hey, I'm Aditya Yash Raj 🚀
 
 ### Data Science Student | Python Developer | Machine Learning Enthusiast
 
