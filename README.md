@@ -40,6 +40,21 @@ I enjoy working across the development lifecycle — from data preprocessing and
 ---
 
 ### 🚀 Featured Projects
+### 🔐 OTP Email Verification System
+
+A Python-based email verification platform that implements one-time passcodes to strengthen authentication workflows.
+
+- Integrated Gmail SMTP to send email verification codes.
+
+- Implemented OTP expiry, attempt limits, and resend cooldowns.
+
+- Used HMAC protection for OTP verification.
+
+- Built backend APIs with FastAPI and a frontend using HTML, CSS, and JavaScript.
+
+- Tech: Python, FastAPI, HTML, CSS, JavaScript, Gmail SMTP, HMAC
+
+[View Repository](https://github.com/23f2000974/Otp-verification-system.git)
 
 #### 🏥 MediCore Plus — Hospital Management System
 
@@ -52,7 +67,7 @@ A full-stack hospital management platform designed to streamline hospital workfl
 
 **Tech:** Python, Flask, Vue.js, SQLAlchemy, Celery, Redis, SQLite, REST APIs
 
-[View Repository](YOUR_MEDICORE_REPOSITORY_URL)
+[View Repository](https://github.com/23f2000974/MediCore_Plus)
 
 #### 🤖 Comment Category Prediction
 
@@ -65,7 +80,7 @@ An NLP and machine learning project focused on multi-class text classification.
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy, LightGBM, NLP
 
-[View Repository](YOUR_NLP_REPOSITORY_URL)
+[View Repository](https://github.com/23f2000974/Comment-Category-Prediction-Challenge)
 
 #### 📝 Quiz Master — Quiz Management System
 
@@ -77,7 +92,7 @@ A web application for managing quizzes and tracking user performance.
 
 **Tech:** Python, Flask, SQLite, HTML, CSS, Bootstrap
 
-[View Repository](YOUR_QUIZ_MASTER_REPOSITORY_URL)
+[View Repository](https://github.com/23f2000974/Appdev2_QuizMaster)
 
 ---
 
